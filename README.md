@@ -25,7 +25,7 @@ STEPS:
 4. And if the next hole has coins, then he will remove the coins & distributes as above to next holes.
 5. But if the next hole is empty where he needs to take, then the turn ends. The hole which is next to the empty one is win-hole. And he will take out the coins from the hole.
 6. And he/she will keep the coins with him as his score.
-7. While distributing the coins, whenever a hole reaches 4 coins [(5-1) coins], the owner of the hole will take out the coins & keep with him.
+7. While distributing the coins, whenever a hole reaches 4 coins [(5-1) coins], the owner of the hole will take out the coins & keep with him/her. This is called 'PASU'.
 8. This ends when a current player has no holes with coins.
 9. Accourding to the scores of the players, the next round starts & the coins filled again in the holes, 5 each. If a player does not have the coins to fill the hole, then the hole will not be used for the round.
 10. The round ends when one of the players does not have the coins to fill even single hole i.e 5 coins. So the player looses the game. Hence the another player wins the game.
