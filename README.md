@@ -23,7 +23,7 @@ STEPS:
 2. He/She takes all the coins from the chosen hole.
 3. Those coins will be distributed next holes by single coin until the coins remain.
 4. And if the next hole has coins, then he will remove the coins & distributes as above to next holes.
-5. But if the next hole is empty where he needs to take, then the turn ends. The hole which is next to the empty one is win-hole. And he will take out the coins from the hole.
+5. But if the next hole is empty where he needs to take, then the turn ends. The hole which is next to the empty one is win-hole. And he/she will take out the coins from the hole.
 6. And he/she will keep the coins with him as his score.
 7. While distributing the coins, whenever a hole reaches 4 coins [(5-1) coins], the owner of the hole will take out the coins & keep with him/her. This is called 'PASU'.
 8. This ends when a current player has no holes with coins.
